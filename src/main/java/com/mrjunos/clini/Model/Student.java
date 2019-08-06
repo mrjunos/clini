@@ -1,4 +1,4 @@
-package com.mrjunos.clini.Model;
+package com.mrjunos.clini.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.Data;

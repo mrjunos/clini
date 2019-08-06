@@ -1,6 +1,6 @@
-package com.mrjunos.clini.JPA;
+package com.mrjunos.clini.jpa;
 
-import com.mrjunos.clini.Model.Assignment;
+import com.mrjunos.clini.model.Assignment;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
